@@ -1,0 +1,25 @@
+{
+  "name": "quill-image-extend-module-fix",
+  "version": "3.0.0",
+  "description": "fork:https://github.com/NextBoy/quill-image-extend-module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NextBoy/quill-image-extend-module.git"
+  },
+  "keywords": [
+    "quill",
+    "quill-upload",
+    "quill-image",
+    "drop"
+  ],
+  "author": "dingjunwei@fenbi.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NextBoy/quill-image-extend-module/issues"
+  },
+  "homepage": "https://github.com/NextBoy/quill-image-extend-module#readme"
+}
