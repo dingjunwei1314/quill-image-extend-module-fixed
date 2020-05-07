@@ -1,6 +1,6 @@
 {
-  "name": "quill-image-extend-module-fixed",
-  "version": "3.0.0",
+  "name": "@fenbi/quill-image-extend-module-fixed",
+  "version": "3.0.1",
   "description": "fork:https://github.com/NextBoy/quill-image-extend-module",
   "main": "index.js",
   "scripts": {
